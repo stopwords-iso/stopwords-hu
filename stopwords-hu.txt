@@ -155,10 +155,8 @@ ellenére
 ellenes
 elleni
 elmondta
-elõ
-elõször
-elõtt
 elő
+elõ
 előbb
 elől
 előle
@@ -168,7 +166,9 @@ előletek
 előlük
 előlünk
 először
+elõször
 előtt
+elõtt
 előtte
 előtted
 előttem
@@ -176,8 +176,8 @@ előttetek
 előttük
 előttünk
 előző
-elsõ
 első
+elsõ
 elsők
 elsősorban
 elsőt
@@ -291,6 +291,7 @@ huszadik
 ide
 ide-оda
 idén
+ide-оda
 igazán
 igen
 így
@@ -515,9 +516,6 @@ mit
 mitől
 mivé
 mivel
-mondta
-most
-mostanáig
 mögé
 mögéd
 mögéjük
@@ -538,6 +536,9 @@ mögülem
 mögületek
 mögülük
 mögülünk
+mondta
+most
+mostanáig
 múltkor
 múlva
 na
@@ -577,12 +578,21 @@ nyolcadikat
 nyolcat
 nyolcvan
 o
+ő
 õ
 oda
 ok
+ők
 õk
+őket
 õket
 olyan
+ön
+önbe
+önben
+önből
+önért
+önhöz
 onnan
 óta
 ott
@@ -644,6 +654,7 @@ régen
 régóta
 rendben
 részére
+rögtön
 róla
 rólad
 rólam
@@ -651,7 +662,6 @@ rólatok
 róluk
 rólunk
 rosszul
-rögtön
 s
 saját
 se
